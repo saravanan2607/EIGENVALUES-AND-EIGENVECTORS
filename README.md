@@ -29,4 +29,4 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vector))
 
 
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python program.
